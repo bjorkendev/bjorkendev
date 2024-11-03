@@ -11,8 +11,8 @@ I have been coding on and off (more off) since 2001. I'm currently studying CS50
 * ✉️  You can contact me at [me@bjorken.dev](mailto:me@bjorken.dev)
 
 <a href="https://www.github.com/bjorkendev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bjorkendev?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a><a href="https://www.x.com/bjorkendev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bjorkendev?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
+src="https://img.shields.io/github/followers/bjorkendev?logo=github&style=for-the-badge&color=000000&labelColor=141414" /></a><a href="https://www.x.com/bjorkendev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/bjorkendev?logo=twitter&style=for-the-badge&color=000000&labelColor=141414"
 /></a>
 
 ### Skills / Learning
