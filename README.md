@@ -8,7 +8,7 @@ I have been coding on and off (more off) since 2001. I'm currently studying CS50
 
 * 🌍  I'm based in Malmö, Sweden
 * 🖥️  See my portfolio at [bjorken.dev](http://bjorken.dev)
-* ✉️  You can contact me at [me@bjorken.dev](mailto:me@bjorken.dev)
+* ✉️  You can contact me at [hi@bjorken.dev](mailto:hi@bjorken.dev)
 
 <a href="https://www.github.com/bjorkendev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bjorkendev?logo=github&style=for-the-badge&color=000000&labelColor=141414" /></a><a href="https://www.x.com/bjorkendev" target="_blank" rel="noreferrer"><img
