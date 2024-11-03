@@ -4,7 +4,8 @@ Hi 👋 My name is Alexander Björkén
 Studying to become a full-stack developer
 -----------------------------------------
 
-I have been coding on and off (more off) since 2001. I'm currently studying CS50 as well as the Full-Stack Development path on Codecademy.
+I have been coding on and off (more off) since 2001.
+I'm currently studying CS50 as well as the Full-Stack Development path on Codecademy.
 
 * 🌍  I'm based in Malmö, Sweden
 * 🖥️  See my portfolio at [bjorken.dev](http://bjorken.dev)
