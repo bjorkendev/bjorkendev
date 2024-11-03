@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/bjorkendev?logo=github&style=for-th
 src="https://img.shields.io/twitter/follow/bjorkendev?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
 /></a>
 
-### Skills
+### Skills / Learning
 
 
 <p align="left">
