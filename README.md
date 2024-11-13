@@ -1,5 +1,4 @@
-Hi 👋 My name is Alexander Björkén
+Hi 👋 My name is Alexander.
 ==================================
 
-Studying to become a full-stack developer
------------------------------------------
+### Studying to become a full-stack developer
